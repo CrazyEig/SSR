@@ -23,7 +23,7 @@ CopyrightLogo='
 =============================================================';
 echo -e "$CopyrightLogo";
 # VAR	******************************************************************
-MirrorHost='ssr.shell.zb.mk';
+MirrorHost='https://github.com/CrazyEig/ssr/blob/master';
 IPAddress=`wget http://members.3322.org/dyndns/getip -O - -q ; echo`;
 ServerLocation=``;
 #==========================================================================
